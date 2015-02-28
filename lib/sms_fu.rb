@@ -1,5 +1,5 @@
 require 'action_mailer'
-require 'pony'
+#require 'pony'
 require 'yaml'
 
 require 'sms_fu/sms_fu'
